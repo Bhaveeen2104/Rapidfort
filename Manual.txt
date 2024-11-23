@@ -1,0 +1,5 @@
+Write this command to run :
+docker-compose up
+
+To Down :
+docker-compose down
